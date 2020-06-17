@@ -1,0 +1,46 @@
+C:\Users\Takan\OneDrive\デスクトップ\ゲームプログラム\C++ 使用可能\enemy 最新 1.29\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\ゲームプログラム\C++ 使用可能\enemy 最新 1.29\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\our duty 神\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\our duty 神\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\ブロック崩し\our duty 神\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\ブロック崩し\our duty 神\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\ブロック崩し\ブロック崩し\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\ブロック崩し\ブロック崩し\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\ブロック崩し\ブロック崩し - コピー\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\ブロック崩し\ブロック崩し - コピー\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\ブロック崩し\ブロック崩し - コピー - コピー\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\ブロック崩し\ブロック崩し - コピー - コピー\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\ブロック崩し\真_ブロック崩し\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\ブロック崩し\真_ブロック崩し\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\真_ブロック崩し\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\真_ブロック崩し\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\ブロック崩し\souce\+したやつ_06\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\ブロック崩し\souce\+したやつ_06\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\+したやつ_06\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\+したやつ_06\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\+したやつ_07\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\+したやつ_07\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\+したやつ_08\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\+したやつ_08\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\+スコアまで_08\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\+スコアまで_08\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\バーの反射まで_08\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\バーの反射まで_08\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\ほぼ完成\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\ほぼ完成\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\Block Mastar\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\Block Mastar\Debug\enemy.pdb
+E:\Block Mastar\Debug\enemy.exe
+E:\Block Mastar\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\Block 最小サイズ\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\Block 最小サイズ\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\Block 最小サイズ_SE無し\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\Block 最小サイズ_SE無し\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\ブロック崩し_最小コンテスト\Block 最小サイズ_タイトルあり_SE無し\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\ブロック崩し_最小コンテスト\Block 最小サイズ_タイトルあり_SE無し\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\Block 最小サイズ_タイトルあり_SE無し\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\Block 最小サイズ_タイトルあり_SE無し\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\5_31_マップチップ\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\5_31_マップチップ\Debug\enemy.pdb
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\Debug\enemy.exe
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\Debug\enemy.pdb

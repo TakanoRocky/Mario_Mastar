@@ -1,0 +1,24 @@
+﻿  App.cpp
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(122,25): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(123,25): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(310,47): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(310,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(318,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(318,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(323,41): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(323,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(328,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(328,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(333,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(333,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(338,41): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(338,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(343,41): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(343,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(348,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(348,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(352,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\App.cpp(352,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  move.cpp
+  コードを生成中...
+  enemy.vcxproj -> C:\Users\Takan\OneDrive\デスクトップ\プログラム全データ\マリオ全データ\6_17_X軸当たりまで\Debug\enemy.exe
